@@ -1,9 +1,9 @@
 {
-  "name": "q-demo",
+  "name": "q-tools",
   "version": "0.0.1",
-  "description": "A Quasar Framework app",
-  "productName": "Quasar App",
-  "author": "ark <arkw@live.com>",
+  "description": "A useful tool with Quasar",
+  "productName": "Quasar Tools",
+  "author": "Ark",
   "private": true,
   "homepage": "https://arkwu-share.github.io/tools",
   "scripts": {

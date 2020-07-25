@@ -1,25 +1,21 @@
 <template>
-  <q-page class="flex flex-center">
-    Welcome, this is a demo for useful tools.
-  </q-page>
+  <q-page class="flex flex-center">Welcome, this is a demo for useful tools.</q-page>
 </template>
 
 <script>
 import { Notify } from "quasar";
 
 export default {
-  name: 'PageIndex',
-  data () {
+  name: "PageIndex",
+  data() {
     return {
-      key: '',
-      result: '',
-      error: '',
-      cipherText: ''
-    }
+      key: "",
+      result: "",
+      error: "",
+      cipherText: "",
+    };
   },
-  created () {
-  },
-  methods: {
-  }
-}
+  created() {},
+  methods: {},
+};
 </script>
